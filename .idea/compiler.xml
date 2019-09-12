@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="databaseclient.DatabaseClient.main" target="1.8" />
+      <module name="databaseclient.DatabaseClient.test" target="1.8" />
+      <module name="databaseclient.DatabseClient.main" target="1.8" />
+      <module name="databaseclient.DatabseClient.test" target="1.8" />
+      <module name="databasemanager.DatabaseMaster.main" target="1.8" />
+      <module name="databasemanager.DatabaseMaster.test" target="1.8" />
+      <module name="masternetworkmanager.MasterNetworkMaster.main" target="1.8" />
+      <module name="masternetworkmanager.MasterNetworkMaster.test" target="1.8" />
+      <module name="masternetworkmaster.MasterNetworkMaster.main" target="1.8" />
+      <module name="masternetworkmaster.MasterNetworkMaster.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
